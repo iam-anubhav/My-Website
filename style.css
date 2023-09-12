@@ -69,15 +69,17 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
+    text-align: justify;
     }
 
    
     .text-primary {
         font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         font-size: 6rem;
-color: #bd5d38 !important;
-margin: 0;
-padding: 0;
+        text-align: justify;
+        color: #bd5d38 !important;
+        margin: 0;
+        padding: 0;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -88,9 +90,10 @@ color: #824027 !important;
         font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         font-size: 4rem;
         font-weight: 800;
-color:#bd5d38 !important;
-margin: 0;
-padding: 0;
+        text-align: justify;
+        color:#bd5d38 !important;
+        margin: 0;
+        padding: 0;
 }
 
 .subheading-pri {
@@ -120,8 +123,9 @@ font-size: 0.8rem;
 }
 
 h1,h2,h3{
-margin: 0;
-padding: 0;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
 }
 
 .institute{
@@ -134,6 +138,7 @@ font-weight: 600;
 h5{
 font-weight: 100;
 font-size: 1.8rem;
+text-align: justify;
 color: rgb(166, 154, 154);
 margin: 0;
 padding: 0;
@@ -142,6 +147,7 @@ padding: 0;
 .details p{
 font-size: 18px;
 font-weight: 80;
+text-align: justify;
 }
 
 .description p{
