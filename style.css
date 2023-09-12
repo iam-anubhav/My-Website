@@ -155,16 +155,11 @@ text-align:justify;
 font-size: 18px;
 font-weight: 80;
 }
+
 p{
 text-align:justify;
 font-weight: 80;
 font-size: 23px;
-}
-
-.description pre{
-text-align:justify;
-font-size: 18px;
-font-weight: 80;
 }
 
 .description ul{
