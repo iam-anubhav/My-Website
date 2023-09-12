@@ -145,10 +145,12 @@ font-weight: 80;
 }
 
 .description p{
+text-align:justify;
 font-size: 18px;
 font-weight: 80;
 }
 p{
+text-align:justify;
 font-weight: 80;
 font-size: 23px;
 }
